@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "996654768513",
+    "project_id": "kampuscheck-dad3a",
+    "storage_bucket": "kampuscheck-dad3a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996654768513:android:f3b43207f7373cf3f24880",
+        "android_client_info": {
+          "package_name": "com.example.kampuscheck"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHCmZVM-mXDTuqeQ06HOocRj8N7UVeIl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
